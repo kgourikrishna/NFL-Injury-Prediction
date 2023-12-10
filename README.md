@@ -13,7 +13,7 @@ The data and premise of this project was obtained from a Kaggle competition. Bot
 
 # Files
 
-NFL Injury Prediction.ipynb - Full jupyter notebook with all python code. Output is cleared
-NFL Injury Prediction - Output.pdf - PDF of full output of jupyter notebook code
-NFL Injury Prediction - Final Report.pdf - Project report for DATASCI 207 Final Project
-NFL Injury Prediction - Final Presentation.pdf - Presentation slide for DATASCI207 Final Presentation
+* NFL Injury Prediction.ipynb - Full jupyter notebook with all python code. Output is cleared
+* NFL Injury Prediction - Output.pdf - PDF of full output of jupyter notebook code
+* NFL Injury Prediction - Final Report.pdf - Project report for DATASCI 207 Final Project
+* NFL Injury Prediction - Final Presentation.pdf - Presentation slide for DATASCI207 Final Presentation
