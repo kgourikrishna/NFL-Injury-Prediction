@@ -10,3 +10,10 @@ Build a classification model that can help predict injuries to NFL players based
 
 # Data
 The data and premise of this project was obtained from a Kaggle competition. Both the premise and input data files can be found here: https://www.kaggle.com/competitions/nfl-playing-surface-analytics
+
+#Files
+
+NFL Injury Prediction.ipynb - Full jupyter notebook with all python code. Output is cleared
+NFL Injury Prediction - Output.pdf - PDF of full output of jupyter notebook code
+NFL Injury Prediction - Final Report.pdf - Project report for DATASCI 207 Final Project
+NFL Injury Prediction - Final Presentation.pdf - Presentation slide for DATASCI207 Final Presentation
